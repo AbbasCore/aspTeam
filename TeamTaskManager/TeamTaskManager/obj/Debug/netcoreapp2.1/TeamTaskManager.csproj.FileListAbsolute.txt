@@ -1,0 +1,17 @@
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\bin\Debug\netcoreapp2.1\TeamTaskManager.deps.json
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\bin\Debug\netcoreapp2.1\TeamTaskManager.runtimeconfig.json
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\bin\Debug\netcoreapp2.1\TeamTaskManager.runtimeconfig.dev.json
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\bin\Debug\netcoreapp2.1\TeamTaskManager.dll
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\obj\Debug\netcoreapp2.1\TeamTaskManager.csprojAssemblyReference.cache
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\obj\Debug\netcoreapp2.1\TeamTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\obj\Debug\netcoreapp2.1\TeamTaskManager.RazorAssemblyInfo.cache
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\obj\Debug\netcoreapp2.1\TeamTaskManager.RazorAssemblyInfo.cs
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\obj\Debug\netcoreapp2.1\TeamTaskManager.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\obj\Debug\netcoreapp2.1\TeamTaskManager.AssemblyInfo.cs
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\obj\Debug\netcoreapp2.1\TeamTaskManager.RazorTargetAssemblyInfo.cache
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\bin\Debug\netcoreapp2.1\TeamTaskManager.pdb
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\obj\Debug\netcoreapp2.1\TeamTaskManager.dll
+C:\Users\abbas\source\repos\TeamTaskManager\TeamTaskManager\obj\Debug\netcoreapp2.1\TeamTaskManager.pdb
